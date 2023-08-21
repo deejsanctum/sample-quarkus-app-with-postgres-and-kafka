@@ -1,0 +1,6 @@
+[submodule "movies-api"]
+	path = movies-api
+	url = C:/Users/ctw00548/Training/quarkus/movies-project/movies-api/
+[submodule "movies-consumer"]
+	path = movies-consumer
+	url = C:/Users/ctw00548/Training/quarkus/movies-project/movies-consumer/
